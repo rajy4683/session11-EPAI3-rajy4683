@@ -17,7 +17,7 @@ while True:
         break
 ```
 
-
+**[Colab Link](https://colab.research.google.com/drive/1W8XivyHSMq1OxkOncD6qPXHzwNVvxtZK?usp=sharing)**
 
 ## TASKS
 
@@ -88,8 +88,6 @@ We make the class PolygonSequences **iterable** by implementing an *iterator* wi
         '''
         return self.PolygonSqIterator(self) 
 ```
-
-
 
 ## User Details:
 

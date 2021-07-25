@@ -26,18 +26,10 @@ import os
 import re
 
 README_CONTENT_CHECK_FOR = [
-    "ConvexPolygon",
     "PolygonSequences",
-    "get_vertices",
-    "get_edges",
-    "get_circumradius",
-    "get_length_of_side",
-    "get_apothem",
-    "get_area",
-    "get_perimeter",
-    "__eq__",
-    "__gt__",
+    "PolygonSqIterator",
     "__getitem__",
+    "__iter__",
     "get_max_efficiency_poly"   
 ]
 
